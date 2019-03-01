@@ -1,5 +1,3 @@
 # hello-world
-this is hello world
 
-
-update1
+Update from dev1
